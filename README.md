@@ -1,2 +1,3 @@
-# Ecommerce-Sales-Dashboard
-Interactive Power BI dashboard for analyzing ecommerce sales performance and trends.
+## Dashboard Preview
+![Ecommerce Sales Dashboard](sales%20analysis.png)
+
